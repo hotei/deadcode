@@ -66,7 +66,7 @@ $ deadcode someDirectory
 [3]: http://github.com/hotei/deadcode "github.com/hotei/deadcode"
 
 Comments can be sent to <hotei1352@gmail.com> or to user "hotei" at github.com.
-License is BSD-two-clause, in file "LICENSE"
+My license is BSD-two-clause, in file "LICENSE.md"
 
 ### License
 ```
